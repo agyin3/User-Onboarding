@@ -20,3 +20,14 @@
 .App-link {
   color: #09d3ac;
 }
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  background: #09d3ac;
+  text-align: left;
+  padding: 20px;
+}
